@@ -1,3 +1,9 @@
+#This is a game where you have to guess a three digit number based on word clues.
+#If one of the numbers you submit is in exactly the right place, you will see "Fermi".
+#If one of the numbers is in the number, but not in the right place, you will see "Pico".
+#If none of the numbers you guessed are in the secret number, you will see "Bagels".
+#You have ten guesses to guess the secret number.
+
 import random
 
 maxGuesses = 10
