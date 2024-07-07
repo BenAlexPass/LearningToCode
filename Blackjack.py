@@ -1,3 +1,4 @@
+#I've managed to create a game of blackjack. It's not perfect, but it works!
 import random
 
 def generateDeck():
