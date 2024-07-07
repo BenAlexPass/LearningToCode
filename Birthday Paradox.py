@@ -1,4 +1,5 @@
-#How many matching birthdays will there be for a given group of people?
+#How many times will a person share a birthday with someone else in a given group of people? The result might seem surprising!
+
 import random
 print("Welcome to th birthday paradox! This will tell you how many birthday matches there are for a group of people.")
 numberOfBirthdays = input ("How many people are there? ")
